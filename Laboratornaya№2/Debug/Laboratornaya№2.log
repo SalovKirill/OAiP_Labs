@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Laboratornaya2.cpp
+c:\users\key\desktop\freshoaip\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya2.cpp(63): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Laboratornaya№2.vcxproj -> C:\Users\key\Desktop\freshOAiP\Laboratornaya№2\Laboratornaya№2\Debug\Laboratornaya№2.exe
+  Laboratornaya№2.vcxproj -> C:\Users\key\Desktop\freshOAiP\Laboratornaya№2\Laboratornaya№2\Debug\Laboratornaya№2.pdb (Partial PDB)
