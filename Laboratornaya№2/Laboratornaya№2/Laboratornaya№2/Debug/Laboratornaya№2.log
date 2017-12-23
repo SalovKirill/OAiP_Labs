@@ -1,0 +1,22 @@
+﻿  Laboratornaya№2.cpp
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(41): error C2374: result: переопределение; множественная инициализация
+  c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(32): note:  см. объявление "result"
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(42): error C2143: синтаксическая ошибка: отсутствие ";" перед "for"
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(44): error C3481: i: передаваемая переменная в лямбда-выражении не найдена
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(44): error C3260: ")": пропускаются непредвиденные токены перед телом лямбда-функции
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(44): error C2101: "&" для константы
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(51): error C2143: синтаксическая ошибка: отсутствие ")" перед "константа"
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(51): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(51): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(52): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(54): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(55): error C2106: =: левый операнд должен быть левосторонним значением
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(57): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(58): error C2105: для "++" требуется левостороннее значение
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(59): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(61): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(62): error C2106: =: левый операнд должен быть левосторонним значением
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(64): error C2065: i: необъявленный идентификатор
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(65): error C2105: для "++" требуется левостороннее значение
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(67): error C2106: -=: левый операнд должен быть левосторонним значением
+c:\users\key\desktop\laboratornaya№2\laboratornaya№2\laboratornaya№2\laboratornaya№2.cpp(72): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных

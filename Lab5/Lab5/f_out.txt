@@ -1,0 +1,2 @@
+Buyer Name                    |Buyer Sunrame       |Buyer's city        |Buyer's street                      Home|      Flat|      Code|            Card 
+Ivan                          |Ivanov              |Taganrog            |Nekrasovskiy                          10|         9|      3254|      -764888621
