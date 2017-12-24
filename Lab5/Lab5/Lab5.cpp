@@ -150,7 +150,7 @@ void searchbuyer()
 }
 
 
-void writefilms()
+void writebuyer()
 {
 	fprintf(f_Buyers, "%-30s|%-20s|%-20s|%-30s", "Buyer Name", "Buyer Sunrame", "Buyer's city", "Buyer's street");
 	fprintf(f_Buyers, "%10s|%10s|%10s|%16s \n", "Home", "Flat", "Code", "Card");
@@ -181,7 +181,7 @@ int main()
 		}
 				break;
 		case 3: {
-			writefilms();
+			writebuyer();
 			printf("Список покупателй выведен в файл\n\n");
 		}
 				break;
